@@ -2,7 +2,7 @@
 
 Aplikasi berbasis web interaktif yang dirancang untuk memprediksi risiko penundaan (*shipping delay*) pada operasional pengiriman e-commerce secara real-time. Proyek ini mengintegrasikan model machine learning mutakhir ke dalam antarmuka web yang siap pakai untuk membantu pengambilan keputusan logistik yang lebih tangkas.
 
-🔗 **Link Aplikasi:** [Masukkan Link Streamlit Kamu di Sini]
+🔗 **Link Aplikasi:** [https://prediksi-shipping-logistik-xgboost.streamlit.app/]
 
 ## 🚀 Fitur Utama
 * **Ekstraksi Fitur Dinamis:** Sistem secara otomatis memuat top 5 fitur paling berpengaruh (*feature importance*) langsung dari arsitektur model untuk efisiensi input pengguna.
