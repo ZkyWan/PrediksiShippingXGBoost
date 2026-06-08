@@ -21,7 +21,7 @@ Model dilatih menggunakan algoritma **XGBoost** dan menghasilkan performa optima
 * **Libraries:** XGBoost, Scikit-Learn, Pandas, NumPy, Joblib
 * **Deployment:** Streamlit Community Cloud
 
-* 💡 Highlight Teknis Proyek:
+💡 Highlight Teknis Proyek:
 1. Menggunakan algoritma XGBoost Classifier yang berhasil mencapai nilai Akurasi 85.20% dan ROC-AUC 0.891.
 2. Fokus pada optimasi metrik Recall (0.871) untuk memastikan sistem sangat sensitif dalam mendeteksi paket yang berisiko terlambat (meminimalkan False Negatives).
 3. Implementasi penanganan dimensi array dinamis secara langsung di production, sehingga mencegah terjadinya error shape saat deployment di Streamlit Cloud.
