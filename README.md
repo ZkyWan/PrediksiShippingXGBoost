@@ -1,4 +1,4 @@
-# 📦 Sistem Analisis & Prediksi Logistik Real-Time (Kelompok 9)
+# 📦 Sistem Analisis & Prediksi Logistik Real-Time 
 
 Aplikasi berbasis web interaktif yang dirancang untuk memprediksi risiko penundaan (*shipping delay*) pada operasional pengiriman e-commerce secara real-time. Proyek ini mengintegrasikan model machine learning mutakhir ke dalam antarmuka web yang siap pakai untuk membantu pengambilan keputusan logistik yang lebih tangkas.
 
